@@ -139,7 +139,7 @@ http://localhost:3000
 **Rayudu Laharika**
 
 - GitHub: https://github.com/laharika2106
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/rayudu-laharika/
 
 ---
 
